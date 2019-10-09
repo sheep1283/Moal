@@ -21,13 +21,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //arrayAdapter = ArrayAdapter<String>(this, android.R.layout.simple_list_item_1)
-//        val listView =
-//        listView.setAdapter(arrayAdapter)
-//        listView.setOnItemClickListener(onClickListener)
-//        listView.setOnItemLongClickListener(longClickListener)
-        //    val TAG = "users" 으으으으으응
-//
 
         val myRef = FirebaseDatabase.getInstance()
         val database = myRef.getReference()
