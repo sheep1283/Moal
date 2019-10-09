@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "70409840972",
+    "firebase_url": "https://modualba.firebaseio.com",
+    "project_id": "modualba",
+    "storage_bucket": "modualba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70409840972:android:e441db1a1bd09700fc87e9",
+        "android_client_info": {
+          "package_name": "com.example.moal_alba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70409840972-6pm53er2vuc79rndld0msge7vd753tfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moal_alba",
+            "certificate_hash": "8fcc148b70664880fe8b59f454b19b833bc5edf9"
+          }
+        },
+        {
+          "client_id": "70409840972-368fbedpj3grg9phf412q027u5jm9e16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF5MsiykNh0GHS5qXzWEj0EeYlLZRwsK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70409840972-368fbedpj3grg9phf412q027u5jm9e16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
